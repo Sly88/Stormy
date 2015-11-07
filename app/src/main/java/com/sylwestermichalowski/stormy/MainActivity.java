@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String apiKey = "592e57b967b511d892ed38ccf0ddbe1e";
+        
         double latitude = 37.8267;
         double longitude = -122.423;
         String url = "https://api.forecast.io/forecast/"+apiKey +"/" + latitude + "," + longitude;
