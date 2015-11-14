@@ -1,10 +1,12 @@
-package com.sylwestermichalowski.stormy;
+package com.sylwestermichalowski.stormy.ui;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.content.Context;
 import android.os.Bundle;
+
+import com.sylwestermichalowski.stormy.R;
 
 import static android.app.AlertDialog.*;
 
